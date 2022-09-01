@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jamison Queiroz
 - 👀 I am interested in the areas of Software Development, Data Analytics, Bussiners Intelligent and GIS.
 - 🌱 I’m currently learning Python, Big Data, Machine Learning and Data Science.
-- 💞️ I'm looking to collaborate on development projects
+- :computer: I'm looking to collaborate on development projects
 - :page_facing_up: You can find me on [LinkedIn](https://www.linkedin.com/in/jamison-queiroz?originalSubdomain=br)
 
 <!---
