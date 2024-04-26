@@ -1,7 +1,7 @@
-## My Stack
-
 <h1 align="center">Hi 👋, I'm Jamison Queiroz</h1>
 <h3 align="center">A Full Stack Developer passionate about continuous learning </h3>
+
+<br/>
 
 - 🏣 I’m currently working on [SEMGE](https://semge.salvador.ba.gov.br/)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [(https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/)](https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/)
 
-
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -29,16 +29,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" />
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="padding-left: 10px; padding-right: 10px;"/>
     </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="padding-left: 5px; padding-right: 5px;" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="padding-left: 5px; padding-right: 5px;" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="padding-left: 5px; padding-right: 5px;"/>
     </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
@@ -126,9 +126,9 @@
 </p>
 
 
-<p><img align="align="center"" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamison0902&show_icons=true&locale=en&layout=compact" alt="jamison0902" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamison0902&show_icons=true&locale=en&layout=compact" alt="jamison0902" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamison0902&show_icons=true&locale=en" alt="jamison0902" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamison0902&show_icons=true&locale=en" alt="jamison0902" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamison0902&" alt="jamison0902" /></p>
 
