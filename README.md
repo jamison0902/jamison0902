@@ -1,22 +1,26 @@
+## My Stack
+
 <h1 align="center">Hi 👋, I'm Jamison Queiroz</h1>
 <h3 align="center">A Full Stack Developer passionate about continuous learning </h3>
 
-- 🏢 I’m currently working on [SEMGE](https://semge.salvador.ba.gov.br/)
+- 🏣 I’m currently working on [SEMGE](https://semge.salvador.ba.gov.br/)
 
-- 🌱 I’m currently learning **Continuous Integration, Continuous Delivery and Messaging Services**
+- 🧠 I’m currently learning **Continuous Integration, Continuous Delivery and Messaging Services**
 
 - 👀 I am interested in the areas of Software Development, Data Analytics, Bussiners Intelligent and GIS.
 
-- 💬 Ask me about **GIS, PHP, Spatial Model**
+- 💬 Ask me about **GIS, PHP and Spatial Model**
 
-- ⚡ Fun fact **teste fact**
+- 📄 Know about my experiences [(https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/)](https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/)
 
 
 
 <h3 align="left">Connect with me:</h3>
-<hr>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jamison-queiroz/" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jamison-queiroz/" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
