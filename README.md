@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jamison Queiroz</h1>
-<h3 align="center">A Full Stack Developer passionate about continuous learning </h3>
+### <p align="center">Hi 👋, I'm Jamison Queiroz<small>Texto menor.</small></p>
+#### <p align="center">A Full Stack Developer passionate about continuous learning </p>
 
-<br/>
+<hr>
+
 
 - 🏣 I’m currently working on [SEMGE](https://semge.salvador.ba.gov.br/)
 
@@ -15,7 +16,7 @@
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/" target="blank">
@@ -23,22 +24,25 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+
+## Languages and Tools
+
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" />
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="padding-left: 10px; padding-right: 10px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-left: 10px; margin-right: 10px;"/>
     </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="padding-left: 5px; padding-right: 5px;" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="padding-left: 5px; padding-right: 5px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-left: 10px; margin-right: 10px;"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="padding-left: 5px; padding-right: 5px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-left: 10px; margin-right: 10px;"/>
     </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
@@ -82,7 +86,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" /> 
+      <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40" /> 
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
@@ -125,6 +129,7 @@
     </a>
 </p>
 
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamison0902&show_icons=true&locale=en&layout=compact" alt="jamison0902" /></p>
 
