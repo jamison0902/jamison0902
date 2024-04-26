@@ -4,15 +4,15 @@
 <hr>
 
 
-- 🏣 I’m currently working on [SEMGE](https://semge.salvador.ba.gov.br/)
+- 🏣 I’m currently working on [SEMGE](https://semge.salvador.ba.gov.br/).
 
-- 🧠 I’m currently learning **Continuous Integration, Continuous Delivery and Messaging Services**
+- 🧠 I’m currently learning **Continuous Integration, Continuous Delivery and Messaging Services**.
 
 - 👀 I am interested in the areas of Software Development, Data Analytics, Bussiners Intelligent and GIS.
 
-- 💬 Ask me about **GIS, PHP and Spatial Model**
+- 💬 Ask me about **GIS, PHP and Spatial Model**.
 
-- 📄 Know about my experiences [(https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/)](https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/)
+- 📄 Know about my experiences [(https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/)](https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/).
 
 <br/>
 
@@ -131,11 +131,8 @@
 <br/>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamison0902&show_icons=true&locale=en&layout=compact" alt="jamison0902" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamison0902&show_icons=true&locale=en&layout=compact" alt="jamison0902" /></p>
 
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamison0902&show_icons=true&locale=en" alt="jamison0902" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamison0902&" alt="jamison0902" /></p>
 
 
   
