@@ -126,7 +126,7 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamison0902&show_icons=true&locale=en&layout=compact" alt="jamison0902" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamison0902&show_icons=true&locale=en&layout=compact" alt="jamison0902" /></p>
 
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamison0902&show_icons=true&locale=en" alt="jamison0902" /></p>
 
