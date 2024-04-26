@@ -3,7 +3,7 @@
 
 - 🏢 I’m currently working on [SEMGE](https://semge.salvador.ba.gov.br/)
 
-- 🌱 I’m currently learning **CI/CD, teste learning**
+- 🌱 I’m currently learning **Continuous Integration, Continuous Delivery and Messaging Services**
 
 - 👀 I am interested in the areas of Software Development, Data Analytics, Bussiners Intelligent and GIS.
 
@@ -122,21 +122,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamison0902&show_icons=true&locale=en&layout=compact" alt="jamison0902" /></p>
+<p><img align="align="center"" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamison0902&show_icons=true&locale=en&layout=compact" alt="jamison0902" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamison0902&show_icons=true&locale=en" alt="jamison0902" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamison0902&" alt="jamison0902" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamison0902&" alt="jamison0902" /></p>
 
 
-
-
-
-
-
-- 👋 Hi, I’m Jamison Queiroz
-- 👀 I am interested in the areas of Software Development, Data Analytics, Bussiners Intelligent and GIS.
-- 🌱 I’m currently learning Python, Big Data, Machine Learning and Data Science.
-- :computer: I'm looking to collaborate on development projects
-- :page_facing_up: You can find me on [LinkedIn](https://www.linkedin.com/in/jamison-queiroz?originalSubdomain=br)
   
