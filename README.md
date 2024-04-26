@@ -1,4 +1,4 @@
-### <p align="center">Hi 👋, I'm Jamison Queiroz<small>Texto menor.</small></p>
+### <p align="center">Hi 👋, I'm Jamison Queiroz
 #### <p align="center">A Full Stack Developer passionate about continuous learning </p>
 
 <hr>
