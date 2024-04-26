@@ -16,7 +16,7 @@
 
 <br/>
 
-## Connect with me
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jamison-queiroz/" target="blank">
@@ -26,8 +26,7 @@
 
 <br/>
 
-## Languages and Tools
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" />
@@ -129,6 +128,7 @@
     </a>
 </p>
 
+<br/>
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamison0902&show_icons=true&locale=en&layout=compact" alt="jamison0902" /></p>
